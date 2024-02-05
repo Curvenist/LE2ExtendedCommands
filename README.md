@@ -6,6 +6,7 @@ Mass Effect 2 Legendary Edition Extended commands provides
 - Options to manually toggle the lowered weapons animation system (Port Arms)
 
 The mod review is available on YouTube to check out the available options.
+https://youtu.be/4z1yff51_7g
 
 ## Installation
 
@@ -19,6 +20,8 @@ For now, most of the fly camera keybinds are hardcoded in .pcc (tied to the "Tic
 
 |Command|Action|
 | --- | --- |
+|Add (+) | Toggle the free fly camera commands|
+|NumpadNine | Freeze animation states (particules / actors) |
 |NumpadTwo & DownArrow | Moving Backward (From Camera PoV)|
 |NumpadEight & UpArrow | Moving Forward (From Camera PoV)|
 |NumpadFour | Strafing Left (blocks the vertical axys if the camera angle deviates from the "floor" 90°)|

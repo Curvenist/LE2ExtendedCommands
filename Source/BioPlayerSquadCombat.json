@@ -1,0 +1,16 @@
+{
+  "game": "LE2",
+  "files": [
+    {
+      "filename": "SFXGame.pcc",
+      "changes": [
+	    {
+	    	"entryname": "BioPlayerSquad",
+	    	   "addtoclassorreplace":{
+	    		"scriptfilenames": ["BioPlayerSquad_SquadExitCombatMode.uc"]
+	    	   }
+        } 
+		  ]	
+		}
+  ]  
+}

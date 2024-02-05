@@ -1,0 +1,1 @@
+var(SFXGameModeDefault) bool bManualPortArms;

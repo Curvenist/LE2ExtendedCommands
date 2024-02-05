@@ -1,0 +1,23 @@
+{
+  "game": "LE2",
+  "files": [
+    {
+      "filename": "SFXGame.pcc",
+      "changes": [
+	    {
+	    	"entryname": "SFXGameModeBase",
+	    	   "addtoclassorreplace":{
+	    		"scriptfilenames": [
+           "SFXGameModeBase_FireWeapon.uc",
+           "SFXGameModeBase_SquadCommand.uc",
+           "SFXGameModeBase_SquadCommand_Move1.uc",
+           "SFXGameModeBase_SquadCommand_Move2.uc",
+           "SFXGameModeBase_SquadCommand_Attack.uc",  
+           "SFXGameModeBase_SquadCommand_Follow.uc"        
+          ]
+	    	   }
+	    }
+      ]  
+    }
+  ]
+}

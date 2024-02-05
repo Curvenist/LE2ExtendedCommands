@@ -1,0 +1,19 @@
+{
+  "game": "LE2",
+  "files": [
+    {
+      "filename": "SFXGame.pcc",
+      "changes": [
+	    {
+	    	"entryname": "SFXPawn_Player",
+	    	   "addtoclassorreplace":{
+	    		"scriptfilenames": [
+           "SFXPawn_Player_CheckEnterCombat.uc",
+           "SFXPawn_Player_SwitchToBackUp.uc"       
+          ]
+	    	}
+	    }
+      ]  
+    }
+  ]
+}

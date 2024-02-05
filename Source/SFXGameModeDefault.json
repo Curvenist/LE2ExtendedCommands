@@ -1,0 +1,51 @@
+{
+  "game": "LE2",
+  "files": [
+    {
+      "filename": "SFXGame.pcc",
+      "changes": [
+	    {
+	    	"entryname": "SFXGameModeDefault",
+	    	   "addtoclassorreplace":{
+	    		"scriptfilenames": [
+            "SFXGameModeDefault_variables.uc",
+            "SFXGameModeDefault_TriggerPortArms.uc",
+            "SFXGameModeDefault_TogglePortArms.uc",
+            "SFXGameModeDefault_PortArmsDown.uc",
+            "SFXGameModeDefault_StandardBehavePortArms.uc",
+            "SFXGameModeDefault_NextWeapon.uc",
+            "SFXGameModeDefault_PrevWeapon.uc",
+            "SFXGameModeDefault_TightAim.uc",
+            "SFXGameModeDefault_StopTightAim.uc", 
+            "SFXGameModeDefault_StormOn.uc", 
+            "SFXGameModeDefault_StormOff.uc",
+            "SFXGameModeDefault_SwitchToBackup.uc",
+            "SFXGameModeDefault_TryExitCover.uc",
+            "SFXGameModeDefault_TryHeavyMelee.uc",
+            "SFXGameModeDefault_TryMelee.uc",
+            "SFXGameModeDefault_TryReload.uc",
+            "SFXGameModeDefault_TrySwapWeapon.uc",
+            "SFXGameModeDefault_TryUserPower.uc",
+            "SFXGameModeDefault_TurnOffTightAim.uc",
+            "SFXGameModeDefault_TurnStromOff.uc",
+            "SFXGameModeDefault_EnterPowerWheel.uc",
+            "SFXGameModeDefault_EnterWeaponWheel.uc",
+            "SFXGameModeDefault_EnterCommandMenu.uc",
+            "SFXGameModeDefault_UseAbility.uc"
+           ]
+          }
+	    },
+        {
+           "entryname": "Default__SFXGameModeDefault",
+           "propertyupdates": [
+            {
+                 "propertyname": "bManualPortArms",
+                 "propertytype": "BoolProperty",
+                 "propertyvalue": "FALSE"
+             }
+         ]	
+		     }
+        ]  
+    }
+  ]
+}

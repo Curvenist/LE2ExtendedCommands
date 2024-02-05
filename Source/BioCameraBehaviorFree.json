@@ -1,0 +1,41 @@
+{
+  "game": "LE2",
+  "files": [
+    {
+      "filename": "SFXGame.pcc",
+      "changes": [
+	    {
+	    	"entryname": "BioCameraBehaviorFree",
+	    	   "addtoclassorreplace":{
+	    		"scriptfilenames": ["BioCameraBehaviorFree_sIV.uc", "BioCameraBehaviorFree_sLV.uc", "BioCameraBehaviorFree_Tick.uc"]
+	    	   }
+	    },
+        {
+           "entryname": "Default__BioCameraBehaviorFree",
+		        "propertyupdates": [
+              {
+                    "propertyname": "m_fMovementScalar",
+                    "propertytype": "FloatProperty",
+                    "propertyvalue": "1000"
+                },
+                {
+                    "propertyname": "m_fRotationScalar",
+                    "propertytype": "FloatProperty",
+                    "propertyvalue": "100"
+                },
+                {
+                    "propertyname": "m_fSIncrement",
+                    "propertytype": "FloatProperty",
+                    "propertyvalue": "1"
+                },
+                {
+                    "propertyname": "m_fLIncrement",
+                    "propertytype": "FloatProperty",
+                    "propertyvalue": "5"
+                }
+		        ]	
+		     }
+        ]  
+    }
+  ]
+}
