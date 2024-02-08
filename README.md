@@ -6,7 +6,7 @@ Mass Effect 2 Legendary Edition Extended commands provides
 - Options to manually toggle the lowered weapons animation system (Port Arms)
 
 The mod review is available on YouTube to check out the available options.
-https://youtu.be/4z1yff51_7g
+https://www.youtube.com/watch?v=YijU1LA3sds
 
 ## Installation
 
