@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=YijU1LA3sds
 ## Installation
 
 1. Download ME3 Tweak mod manager to setup the "DLC" configuration files
-2. Put the SFXGame.pcc into the CookedPCConsole folder and make sure you keep a backup of your original SFXGame file in case you're getting issues.
+2. Drag & Drop the file archive : ME2LEExtendedCommands.7zip into ME3 Tweak mod Manager
+3. Install, OR import And Apply the mod
 
 ## Camera Features
 For now, most of the fly camera keybinds are hardcoded in .pcc (tied to the "Tick" Event)
