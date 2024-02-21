@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=YijU1LA3sds
 
 ## Installation
 
-1. Download ME3 Tweak mod manager to setup the "DLC" configuration files
+1. Download ME3 Tweak mod manager.
 2. Drag & Drop the file archive : ME2LEExtendedCommands.7zip into ME3 Tweak mod Manager
 3. Install, OR import And Apply the mod
 
